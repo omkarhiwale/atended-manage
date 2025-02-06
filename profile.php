@@ -49,7 +49,7 @@
   
   <div class="container">
     <?php
-      $name = $_SESSION['name'];
+      $name = $_SESSION['Name'];
       $phone = $_SESSION['phone'];
       $email = $_SESSION['email'];
       $classes = $_SESSION['classes'];
